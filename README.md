@@ -1,15 +1,3 @@
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://github.com/sharma2609">
-    <img src="https://img.shields.io/github/followers/sharma2609?label=Follow&style=social" alt="GitHub followers" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/sharma2609?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My%20Projects-brightgreen" alt="Explore my projects" />
-  </a>
-</p>
-
-
 ---
 ## Hi there 👋  
 
@@ -36,7 +24,7 @@
 ---
 
 ### 📫 Connect With Me
-- 📧 Email: **priyanshu.sharma.2609p@gmail.com**  
+- 📧 portfolio: **https://priyanshusharmavscode.vercel.app/**  
 - 🔗 LinkedIn: https://www.linkedin.com/in/priyanshu-sharma-361150238/
 
 <!--
