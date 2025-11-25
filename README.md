@@ -1,9 +1,7 @@
 ## Hi there 👋  
-
 ### 🧠 About Me
 - I'm **Priyanshu Sharma**  
 - 🤖 Love building **AI-powered** and **web-dev** projects  
-
 ---
 
 ### 🚀 Skills & Technologies
@@ -19,6 +17,11 @@
 
 **Tools & DBs:**  
 `Git` · `GitHub` · `MySQL`  
+
+---
+
+### 🥋 Fun Fact
+I’m a **Black Belt Dan-1 in Taekwondo** and a **3× National Gold Medalist** 🥇  
 
 ---
 
