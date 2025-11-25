@@ -9,11 +9,9 @@
 ---
 
 ### 🧠 About Me
-- 🎓 B.Tech in Computer Science (**MIET**, 2020–2024)  
-- 🎓 Minor in Artificial Intelligence (**IIT Ropar**, 2024–2025)  
-- 🎓 MBA (**CCS University**, 2025–Present)  
-- 👨‍🏫 Assistant Professor at **FIT, Meerut**  
-- 🤖 Love building **AI-powered** and **full-stack web** projects  
+- ## Hi there 👋  
+- I'm **Priyanshu Sharma**  
+- 🤖 Love building **AI-powered** and **web-dev** projects  
 
 ---
 
@@ -33,19 +31,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-🔹 **Fake News Detection System**  
-End-to-end ML + full-stack app using TF-IDF & scikit-learn  
-
-🔹 **Multilingual Translation & Transliteration System**  
-Supports 5 languages · NLLB-200 · Whisper · Streamlit UI  
-
-🔹 **AI Money Tracker** _(Work in Progress)_  
-Next.js + Flask backend + AI-generated financial insights  
-
----
-
 ### 🥋 Fun Fact
 I’m a **Black Belt Dan-1 in Taekwondo** and a **3× National Gold Medalist** 🥇  
 
@@ -53,7 +38,7 @@ I’m a **Black Belt Dan-1 in Taekwondo** and a **3× National Gold Medalist** �
 
 ### 📫 Connect With Me
 - 📧 Email: **priyanshu.sharma.2609p@gmail.com**  
-- 🔗 LinkedIn: _add your LinkedIn URL here_
+- 🔗 LinkedIn: https://www.linkedin.com/in/priyanshu-sharma-361150238/
 
 <!--
 **sharma2609/sharma2609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
