@@ -1,9 +1,10 @@
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/PRIYANSHU-26">
+  <a href="https://github.com/sharma2609">
     <img src="https://readme-typing-svg.demolab.com?size=26&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I'm+Priyanshu+Sharma;Assistant+Professor+%7C+AI+%26+Full-Stack+Developer;Machine+Learning+%7C+Deep+Learning+%7C+NLP+Enthusiast;Always+learning+something+new+🚀">
   </a>
 </p>
+
 
 ---
 
