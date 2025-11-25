@@ -1,15 +1,19 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/sharma2609">
-    <img src="https://readme-typing-svg.demolab.com?size=26&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I'm+Priyanshu+Sharma;Assistant+Professor+%7C+AI+%26+Full-Stack+Developer;Machine+Learning+%7C+Deep+Learning+%7C+NLP+Enthusiast;Always+learning+something+new+🚀">
+    <img src="https://img.shields.io/github/followers/sharma2609?label=Follow&style=social" alt="GitHub followers" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sharma2609?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My%20Projects-brightgreen" alt="Explore my projects" />
   </a>
 </p>
 
 
 ---
+## Hi there 👋  
 
 ### 🧠 About Me
-- ## Hi there 👋  
 - I'm **Priyanshu Sharma**  
 - 🤖 Love building **AI-powered** and **web-dev** projects  
 
@@ -28,11 +32,6 @@
 
 **Tools & DBs:**  
 `Git` · `GitHub` · `MySQL`  
-
----
-
-### 🥋 Fun Fact
-I’m a **Black Belt Dan-1 in Taekwondo** and a **3× National Gold Medalist** 🥇  
 
 ---
 
